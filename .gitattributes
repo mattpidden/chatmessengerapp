@@ -1,7 +1,8 @@
-android/** linguist-generated
-ios/** linguist-generated
-web/* linguist-generated
-linux/** linguist-generated
-macos/** linguist-generated
-windows/** linguist-generated
-docs/* linguist-generated
+android/** linguist-generated=true
+ios/** linguist-generated=true
+web/** linguist-generated=true
+linux/** linguist-generated=true
+macos/** linguist-generated=true
+windows/** linguist-generated=true
+docs/** linguist-generated=true
+test/** linguist-generated=true
