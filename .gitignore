@@ -9,3 +9,8 @@ web/
 windows/
 .flutter-plugins
 .flutter-plugins-dependencies
+.metadata
+analysis_options.yaml
+chatmessengerapp.iml
+oubspec.lock
+pubspec.yaml
