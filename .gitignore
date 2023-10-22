@@ -1,0 +1,11 @@
+lib/
+android/
+build/
+ios/
+linux/
+macos/
+test/
+web/
+windows/
+.flutter-plugins
+.flutter-plugins-dependencies
